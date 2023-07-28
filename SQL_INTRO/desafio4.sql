@@ -202,6 +202,6 @@ HAVING COUNT(comentarios.contenido) < 1;
 
 
 /*_________________________*/
--- ESPERO QUE ESTÉ BIEN!
--- GRACIAS!
+-- FIN -- 
 -- FLA
+/*_________________________*/

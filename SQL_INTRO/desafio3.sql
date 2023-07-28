@@ -222,6 +222,5 @@ ORDER BY FECHA ASC;
 
 
 
--- ESPERO QUE ESTÉ BIEN!
--- GRACIAS!
+-- FIN -- 
 -- FLA
