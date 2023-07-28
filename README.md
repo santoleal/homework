@@ -1,3 +1,3 @@
-# homework
-Repositorio de tareas y desafíos prácticos relacionados a distintos lenguajes de consulta y programación.
+# homework / tareas
 
+Repositorio de tareas y desafíos prácticos relacionados a cursos de distintos lenguajes de consulta y programación.
