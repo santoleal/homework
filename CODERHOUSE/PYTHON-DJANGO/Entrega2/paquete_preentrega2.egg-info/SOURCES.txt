@@ -1,0 +1,8 @@
+setup.py
+paquete_preentrega2/__init__.py
+paquete_preentrega2/main.py
+paquete_preentrega2/menu.py
+paquete_preentrega2.egg-info/PKG-INFO
+paquete_preentrega2.egg-info/SOURCES.txt
+paquete_preentrega2.egg-info/dependency_links.txt
+paquete_preentrega2.egg-info/top_level.txt
