@@ -1,2 +1,0 @@
-Hola.
-El Colab sigue siendo modificado, en la medida que se va comprendiendo :(
