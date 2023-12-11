@@ -1,0 +1,1 @@
+print("Se inició variable")
