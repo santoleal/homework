@@ -1,0 +1,28 @@
+.navbar {
+    background-color: blue;
+    color: white;
+    padding-bottom: 10px; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+li {
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+}
+
+li a {
+    display: block;
+    color: yellow;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+li a:hover {
+    background-color: #555;
+}
